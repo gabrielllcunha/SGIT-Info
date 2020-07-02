@@ -2,7 +2,7 @@
 
 Sistema de Gestão Inteligente Para Transportadora
 
-O objetivo principal desse sistema é facilitar a vida das empresas de transportadoras, oferecendo diversas funções para monitorar o cliente (motorista) e funções que auxiliarão em seu trabalho.
+Sistema desenvolvido para facilitar a vida das empresas de transportadoras, oferecendo diversas funções para monitorar o cliente (motorista) e funções que auxiliarão em seu trabalho.
 
 <hr>
 
